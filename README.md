@@ -16,7 +16,6 @@ WASD to move, Space to shoot.<br>
 **On multi-player:** <br> 
 Player1 (Arduino): rotate the Potentiometer to move, and press the Button to shoot.<br>
 Player2 (Keyboard): press WASD to move, and Space to shoot.<br>
-<br>
 
 # Build download link
 (Please download the entire folder named "Build", not just the exe file) <br>
